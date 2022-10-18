@@ -56,7 +56,6 @@
 .header__main-illustration {
   height: 608px;
   width: 765px;
-   /* background-image: url(../images/header-image.png); */
   background-size: cover;
   position: absolute;
   bottom: 0;
@@ -72,6 +71,8 @@
   top: 64px;
   right: 0;
 }
+
+/* Блок decsription */
 
 .description {
   margin-top: 100px;
@@ -115,6 +116,8 @@
   font-size: 24px;
   font-weight: 600;
 }
+
+/* Блок digits */
 
 .digits {
   margin-top: 100px;
@@ -166,6 +169,8 @@
   font-weight: normal;
 }
 
+/* Блок feynman */
+
 .feynman {
   margin-top: 100px;
   min-height: 890px;
@@ -204,6 +209,8 @@
   right: 48px;
   text-decoration: none;
 }
+
+/* Блок kaufman */
 
 .kaufman {
   position: relative;
@@ -246,6 +253,8 @@
   right: -210px;
   z-index: 0;
 }
+
+/* Блок footer */
 
 .footer {
   background-color: #1f1f1f;
